@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="textview">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/deps/textview.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

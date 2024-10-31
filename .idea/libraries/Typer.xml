@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Typer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/deps/Fade.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

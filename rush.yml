@@ -1,0 +1,21 @@
+# For a detailed info on this file and supported fields, check
+# out this link: https://github.com/ShreyashSaitwal/rush-cli/wiki/Metadata-File
+
+---
+name: CustomTextView           # Caution: DO NOT change the name.
+description: A Custom TextView extension for making different types of textviews. <br> Created By Sumit using Rush. <br> <a href="https://community.kodular.io/u/Sumit1334/" target="_blank">Sumit</a>
+
+version:
+  number: auto        # Auto increments version number when built with '-r' (or '--release') flag.
+  name: '1'
+
+assets:
+  icon: https://res.cloudinary.com/gamerzon/image/upload/c_scale,w_20/v1623655693/1623654969579_efvysg.png      # Extension icon
+build:
+authors:
+  - Sumit
+release:
+  optimize: true
+
+#deps:
+#  - Rotating.jar

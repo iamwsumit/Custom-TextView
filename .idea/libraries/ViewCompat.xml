@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ViewCompat">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/deps/ViewCompat.jar!/" />
+    </SOURCES>
+  </library>
+</component>
